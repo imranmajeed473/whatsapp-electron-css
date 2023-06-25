@@ -1,0 +1,12 @@
+span[data-display="Imran Majeed"] {
+    color: #ff0000;
+    font-size: xx-large;
+    font-weight: 900;
+}
+span[title="Shiraz Inserito"] {
+    color: #3e00ff;
+}
+
+span[data-testid="chat-butterbar"] {
+    display: none;
+}

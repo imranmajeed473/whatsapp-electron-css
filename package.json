@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-electron",
+  "version": "1.1.1",
+  "description": "Unofficial desktop client for WhatsApp Web",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder ."
+  },
+  "repository": "https://github.com/kenxjy/whatsapp-electron",
+  "author": "Kenneth Yue",
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "electron": "^9.4.4",
+    "electron-builder": "^22.8.0"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
